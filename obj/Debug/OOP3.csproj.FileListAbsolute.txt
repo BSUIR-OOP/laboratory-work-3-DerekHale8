@@ -1,0 +1,16 @@
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3.csproj.AssemblyReference.cache
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3.csproj.SuggestedBindingRedirects.cache
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\MainWindow.g.cs
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\App.g.cs
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3_MarkupCompile.cache
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3_MarkupCompile.lref
+D:\ProgrammsAndGames\OOP\OOP3\bin\Debug\OOP3.exe.config
+D:\ProgrammsAndGames\OOP\OOP3\bin\Debug\OOP3.exe
+D:\ProgrammsAndGames\OOP\OOP3\bin\Debug\OOP3.pdb
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\MainWindow.baml
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3.g.resources
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3.Properties.Resources.resources
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3.csproj.GenerateResource.cache
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3.exe
+D:\ProgrammsAndGames\OOP\OOP3\obj\Debug\OOP3.pdb
